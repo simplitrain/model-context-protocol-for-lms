@@ -112,9 +112,17 @@ Learn more about SimpliTrain's MCP implementation:
 
 ## Further Resources
 
-* [SimpliTrain](https://simplitrain.com/)
-* [Model Context Protocol](https://modelcontextprotocol.io/)
-* [SimpliTrain MCP Server](https://simplitrain.com/news/simplitrain-mcp-server-launch/)
+## Resources
+
+### Guides
+
+* [Model Context Protocol for LMS](docs/mcp-for-lms.md) — An introduction to MCP, LMS connections, potential use cases, security considerations, and learning-system integrations.
+
+### External Resources
+
+* [Model Context Protocol](https://modelcontextprotocol.io/) — Official MCP documentation.
+* [SimpliTrain](https://simplitrain.com/) — Learning and training technology platform.
+* [SimpliTrain MCP Server](https://simplitrain.com/news/simplitrain-mcp-server-launch/) — Information about SimpliTrain's MCP implementation.
 
 ## About This Repository
 
